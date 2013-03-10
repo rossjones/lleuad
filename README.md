@@ -1,4 +1,4 @@
 lleuad
 ======
 
-Experimenting
+A repository for experimenting with some ideas.
